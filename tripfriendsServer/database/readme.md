@@ -3,7 +3,6 @@
 
 ## Database Name : TripFriends DB
 
-
 ## Tables
 
 1. Place Table
@@ -94,6 +93,12 @@
 | point   | int | 적립한 포인트 기록     |
 | user_id | int | 어떤 유저에게 적립?    |
 
+## Router
 
+### register Router
+
+| method | input_data                                                                                                                                                  |   |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| POST   | user_data<br/>1. id<br/>2.profile_url<br/>3. name<br/>4. email<br/>5. point<br/>6. ph_num<br/>7. created_date<br/>8. mission_clear_id<br/>9. mission_ing_id |   |
 
 
