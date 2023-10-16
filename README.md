@@ -6,6 +6,11 @@ We are Studying at Dongguk Univ. ![img](https://github.com/minseo2000/db_project
 
 <hr>
 
+## Our Purpose
+
+<hr>
+빅데이터 기반 비인기 관광지의 원인을 파악할 수 있다. (전문성) 
+
 ## Team Member
 
 
