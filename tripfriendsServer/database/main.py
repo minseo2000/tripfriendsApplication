@@ -1,11 +1,12 @@
 from flask import Flask, request,jsonify
+from flask_cors import CORS
 import db
 
 # have to add system clock
 
 def create_app():
     app = Flask(__name__)
-
+    CORS(app)
 
     db.makeDb()
     db.makePostTable()
