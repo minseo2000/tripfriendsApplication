@@ -1224,7 +1224,7 @@ if __name__ == "__main__":
         '{}',
         '{}'
     ]
-    #inputUserTable(user_test_id)
+    inputUserTable(user_test_id)
     #print(selectUserTable('pms1001'))
 
     post_category_test_data = [
@@ -1246,12 +1246,12 @@ if __name__ == "__main__":
         'http://127.0.0.1'
     ]
 
-    #inputPostCategoryTable(post_category_test_data)
-    #inputPostTable(post_test_data)
-    #inputDetailPostTable(detail_post_test_data)
+    inputPostCategoryTable(post_category_test_data)
+    inputPostTable(post_test_data)
+    inputDetailPostTable(detail_post_test_data)
 
 
-    #inputUnknownPlaceData()
+    inputUnknownPlaceData()
 
     mission_test_data = [
         '미션1',
